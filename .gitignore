@@ -1,0 +1,9 @@
+.env
+.cache
+TODO
+venv
+.idea
+__pycache__
+.spotify_caches
+.pytest_cache
+spotifydiscover.egg-info
